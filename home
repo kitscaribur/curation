@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Nina Wong</title>
+</head>
+
+<style>
+	body {
+	background-color: #E6DCC3;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+</style>
+	
+<body>
+<center style="text-align: left;"> </center>
+	 
+	<h1> Nina Wong </h1>
+	<p>
+		Portuguese-born Macanese independent curator based in London. Nina studied Master of Fine Arts in Curating at Goldsmiths, and is a graduate of BA Fine Arts at Central Saint Martins, where she was nominated for the MullenLowe NOVA Award. Her curatorial works has been featured at multiple organisations such as Art Monthly and Kensington + Chelsea Art Week.
+	</p>
+	
+	<hr style="border-top:dotted 2px; color: black" />
+	
+	<div> <span>✯</span>
+		<a href="curatorial_works.html" style="color: blue"> Curatorial Works </a>
+	</div> 
+	
+	<div> <span>✯</span>
+		<a href="arc_2_research.html" style="color:blue"> Arc 2 </a>
+			<span class="label label-primary"
+				  style="color:red"> NEW! </span>
+	</div>
+	
+	<div> <span>✯</span>
+		<a href="press.html" style="color:blue"> Press and Features </a>
+	</div>
+	  
+	<div> <span>✯</span>
+		<a href="mailto:n.n.wong.z@gmail.com" style="color: blue"> Contact </a>
+	</div>	
+	 
+	
+</body>
+</html>
